@@ -15,7 +15,7 @@ This is a Streamlit application that allows users to upload multiple PDF documen
 2. Navigate to the project directory:
 
    ```bash
-   cd streamlit-pdf-chatbot
+   cd CogniChat
    ```
 
 3. Install dependencies:
