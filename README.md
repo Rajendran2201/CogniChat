@@ -72,8 +72,18 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - Inspiration: [Alejandro AO](https://github.com/alejandro-ao)
 
-## Screenshots 
+## Demonstration 
 
 <img width="1440" alt="Screenshot 2024-03-23 at 21 09 53" src="https://github.com/Rajendran2201/CogniChat/assets/137254223/38156858-db38-4974-926b-666812e64e5d">
 <img width="1440" alt="Screenshot 2024-03-23 at 21 10 36" src="https://github.com/Rajendran2201/CogniChat/assets/137254223/1a7b04fb-4264-4329-be21-1e94cbc1901b">
+<img width="1440" alt="Screenshot 2024-04-16 at 01 18 34" src="https://github.com/Rajendran2201/CogniChat/assets/137254223/0c0cc886-8be1-428d-ae4c-0dacb9b2a02b">
+
+
+<img width="1440" alt="Screenshot 2024-04-21 at 01 23 02" src="https://github.com/Rajendran2201/CogniChat/assets/137254223/ae9ff445-fa8f-4f7f-9ecd-b969b55a7c38">
+<img width="1440" alt="Screenshot 2024-04-21 at 01 22 07" src="https://github.com/Rajendran2201/CogniChat/assets/137254223/187b6a5d-578a-4c07-a4ad-739cc8260e6e">
+<img width="1440" alt="Screenshot 2024-04-21 at 01 21 16" src="https://github.com/Rajendran2201/CogniChat/assets/137254223/c0d2e218-9cfc-4310-9e98-f48db91f0c67">
+
+
+
+
 
